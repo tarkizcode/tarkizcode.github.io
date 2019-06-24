@@ -11,7 +11,7 @@ description: "Tarkiz Official Web represents Team Tarkiz, their ideas, projects 
 people:
 - name: Muhammad Isrofan
   pic: 1
-  position: Partner
+  position: Partner / Project Manager
   social:
     - title: twitter
       url: #
@@ -22,7 +22,7 @@ people:
 
 - name: Beta Uliansyah
   pic: 2
-  position: Partner
+  position: Partner / System Engineer
   social:
     - title: twitter
       url: #
@@ -31,16 +31,16 @@ people:
     - title: linkedin
       url: #
 
-- name: Dzakwan Robbani
-  pic: 3
-  position: Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+#- name: Dzakwan Robbani
+#  pic: 3
+#  position: Developer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
